@@ -7,13 +7,17 @@ As linguagens utilizadas foram:
 
 A apresentação da pagina tem um menu inicial que direciona ao usuario aos diferentes espaços da website.
 A continuação apresentação do conteudo:
-## Menu inicial e inicio
+## Menu inicial 
+
 ![apresentação-menu](images/presentacion.png)
 
 ### Apresetação inicial
 ![apresentação-menu](images/presentacion1.png)
 ## Quem somos?
 ![apresentação-menu](images/presentacionspectre.png)
-## Serviços e planos
+## Serviços
 ![apresentação-menu](images/servicosplanos.png)
 
+## Planos
+
+![apresentação-menu](C:\Users\carlo\OneDrive\Documentos\Programación\Projetos\dota2-interfaceweb\images\dota5.png)
