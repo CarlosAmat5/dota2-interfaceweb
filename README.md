@@ -20,4 +20,4 @@ A continuação apresentação do conteudo:
 
 ## Planos
 
-![apresentação-menu](C:\Users\carlo\OneDrive\Documentos\Programación\Projetos\dota2-interfaceweb\images\dota5.png)
+![apresentação-menu](images/dota5.png)
